@@ -1,4 +1,4 @@
 # Coding-Algoritms
 Simple problems solved with different algoritms in C/C++
 
-A set of problems that are solved with different algoritms, to be optimized. The problems were proposed by my university teacher at the "Programming Techniques". The algoritms used were Backtracking, Greedy, Divide et Impera and Dynamic Programming.
+A set of problems that are solved with different algoritms. The problems were proposed at the "Programming Techniques" university course. The algoritms used to solve the problems were especially Backtracking, Greedy, Divide et Impera and Dynamic Programming.
